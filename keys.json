@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gspy-432801",
+  "private_key_id": "f41fc3a97bde564d0ac6c46b1fc12b3f2cf4d878",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLIEQbfUoLfamb\nq7Z9bJ11qGKKnac48Ud6pzbFvPZspber+Ic17f4+BW9vSo0ax7IyUGrWqvwqDCP3\n0xviBeyK+mJXvGGaJ6Q3KRbP3rJkYKoxM9KUFmr2LCroJwdPGHsurUJQmhw0MvMo\n86FWgVBTlJ8sABr6BzKqpHEmcjzwos/XRgN6N1xsyy63byWpXaOj25TxM5VSFDEE\nMcQPLaYMXnIZ1sq50vbNuCmMrnl7KxApsqHkFYtrVo4kQfQArc/EvgUL6XnBhq0G\n0/ibF2HboZ5Os5+9JRFHj0SiJP9AC8Wh6aEsPSUMqW7GNvIJgypd4ELRaK19heW7\ntyouShhjAgMBAAECggEAANFACHeeb0VKrrXZyxai+D1K8nGETHjch5tvNNLUc0AH\nsDzb18OMBPnC9Pqiw/KLcGqA+463XPGCHm8Dw/yvyETxjnoMTyo3yI/uC0rfu61W\nyuA6O2zgx6S1FCkTmdd94L1fonEQwv078SZM8Nk6swUuI+d3F+F6Fv7sEsCWmTCf\nXEexPgAlCQsYHTDhvLjF5z11yGf7Ts2WrXVjwyknBW8Z3xaxhyBhZCOJMmfTowUD\nMFriW3WbZQPm95tpq+/ExmVzG1RVFtvSInJ9WUDm9PIx9QOvrSzuZwcO1FT4Vpab\nwcaCRs/O15MVJHUkw5QXkJc48KFKWC/kMn7UqX09vQKBgQDzxFxHsjJhJpU+KjH8\nCy+dCWQXXoz7j9ca/QOm+PERBUTXAY3gsq1LHhs2nNRL8XQdTsIWEqqWJsPzI6QU\nI0RDFHYcfufcyhTR2Og2YjGx0Be8IKAh2KEGHtjK/IzRKnHMdQtVIRN2OQo0WZvZ\nXv9kdnWb43Z0GvHsUtkAARYgTQKBgQDVUcvxeAuGqNQfMWb5JKsSuYAmm4/Zw/UA\nhMTYjF6YqjlKBHvfJbS6Aypm4v6J58iK9Int55Az7BxpG/eccDXlZzR9t3QTNXE3\nMPtvNJvss1NLMRCcLExeCJwUvsIUTb07MGKkSI8+SI8OAHh5hbaYv/xIsoI9IMWK\nDHXt5a3zbwKBgQDiIBLiR0FIsbvb8NRxVAcVC3MX4pOxgFswI+jRaThma5bSRBTS\nja0Hc6QW4yBkWlU2IqsUQriPlOJMl5FLRPO7ri1qfaakP6lUiHvQhwJGShzaXQFu\npD+rJ84/bktKdK8f1KtwisA8+Oioaz+RQvhyvxiWRUjKp3wnlyrJQDjAOQKBgQCV\n+0LG7b482Wr624Mo3K0jJyWA/5LuayZRTQgRsO+5qsVI00o8pIgi2KLxX9vTHhIU\nEMcBa/QpbXK0PCOl7AcY2a1ATsHf141YXqoJkBWpIJQJo9+nzkWLP8Ztl4lhOR85\nBFX2Z8W+5skd8RrDZk3xq9o3SrrjO61n2Eb6EqhxJQKBgBtoofjF/b7hVWjsZRJD\nGrlMn5i4vm5rZThTcmkWwyxypqYuIN9TE9AU0cYWhQbAFrZhZEcH3I+W7YctH329\nmDKSbwuETKnKgiZwE2qr9+VcA8kPAOefQGeTEnQY9ihdTUcHeOozLv1+rMLHi4Gh\ncT9Pz7YCeW/MQ9Iiz61eTW9V\n-----END PRIVATE KEY-----\n",
+  "client_email": "calibri@gspy-432801.iam.gserviceaccount.com",
+  "client_id": "110431331438277344965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calibri%40gspy-432801.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
