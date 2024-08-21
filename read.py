@@ -9,7 +9,7 @@
 #     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 #
 # # The ID spreadsheet.
-# SAMPLE_SPREADSHEET_ID = '1eE6fNUw2DRCEivBEGs-EfAF5lbHDJVzQhLODGZWZc6U'
+# SAMPLE_SPREADSHEET_ID = ''
 #
 # service = build('sheets', 'v4', credentials=creds)
 #
